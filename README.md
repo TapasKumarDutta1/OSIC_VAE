@@ -5,3 +5,4 @@
 - Concatenated the extracted features with tabular features and trained a simple neural network.
 
 ## Segmenttion Results
+ ![](images/watershed algorithm.png)
