@@ -6,5 +6,5 @@
 
 ## Segmenttion Results
 
-![](images/watershed_algorithm_final.png )
+![](images/segmentation.png)
 
