@@ -13,5 +13,5 @@
 ![](images/OSIC_results.jpg)
 
 ## References
-- H-DenseUNet: Hybrid Densely Connected UNet for Liver and Tumor Segmentation from CT Volumes
+- https://arxiv.org/abs/1709.07330
 - https://www.kaggle.com/aadhavvignesh/lung-segmentation-by-marker-controlled-watershed
