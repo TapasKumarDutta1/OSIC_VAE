@@ -14,4 +14,3 @@
 
 ## References
 - https://arxiv.org/abs/1709.07330
-- https://www.kaggle.com/aadhavvignesh/lung-segmentation-by-marker-controlled-watershed
