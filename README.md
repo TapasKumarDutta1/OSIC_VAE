@@ -12,5 +12,3 @@
 
 ![](images/OSIC_results.jpg)
 
-## References
-- https://arxiv.org/abs/1709.07330
